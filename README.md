@@ -17,15 +17,6 @@
 
 ---
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChiVi123&show_icons=true&theme=radical" alt="Vĩ's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiVi123&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
-
----
-
 ### ⚽ Beyond Coding (Football & Tactics):
 When I'm not behind the screen, I'm an avid football enthusiast with a deep interest in the tactical side of the game:
 - **Playstyle:** I love playing football and always look for ways to apply logical thinking on the pitch.
