@@ -1,6 +1,6 @@
 ### Hi there 👋, Nguyễn Hoàng Chí Vĩ
 #### Software Engineer | TypeScript, React.js, Next.js
-![Software Developer](https://www.shutterstock.com/shutterstock/videos/3954871497/preview/stock-footage-neon-blue-soccer-field-outline-on-black-background-football-sport.webm)
+![Software Developer](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWcxM3psZDNqYXVnd3hwOWl3bWN6NWNkY3djeHpsdWRqbnZtYm44aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPWXYMP4t2ODvzwOYk/giphy.gif)
 
 👋 I'm **Nguyễn Hoàng Chí Vĩ**, a Software Engineer based in Vietnam. I graduated with a **Software Engineering** from the University of Technology and Education (HCMUTE). My passion lies in building smooth, high-performance web interfaces and accurately transforming Figma designs into real-world products.
 
